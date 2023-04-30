@@ -8,7 +8,7 @@ const cors = require("cors");
 
 var corsOptions = {
   credential: true,
-  allowOrigin: ["https://memories-dd4k.onrender.com/"],
+  allowOrigin: ["https://memories-dd4k.onrender.com"],
   optionsSuccessStatus: 200,
 };
 
